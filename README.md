@@ -12,7 +12,6 @@ http://localhost:8082/auth/register
 "password": "12345678"
 }
 
-отправит смс на gmail
 парол min 6 max 8 символы
 
 http://localhost:8082/auth/login
